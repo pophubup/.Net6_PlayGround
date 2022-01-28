@@ -1,0 +1,14 @@
+C:\Users\Yohoo\OneDrive\桌面\RestAPIs\zNpgsqlClient\bin\Debug\net6.0\zNpgsqlClient.deps.json
+C:\Users\Yohoo\OneDrive\桌面\RestAPIs\zNpgsqlClient\bin\Debug\net6.0\zNpgsqlClient.runtimeconfig.json
+C:\Users\Yohoo\OneDrive\桌面\RestAPIs\zNpgsqlClient\bin\Debug\net6.0\zNpgsqlClient.dll
+C:\Users\Yohoo\OneDrive\桌面\RestAPIs\zNpgsqlClient\bin\Debug\net6.0\zNpgsqlClient.pdb
+C:\Users\Yohoo\OneDrive\桌面\RestAPIs\zNpgsqlClient\obj\Debug\net6.0\zNpgsqlClient.csproj.AssemblyReference.cache
+C:\Users\Yohoo\OneDrive\桌面\RestAPIs\zNpgsqlClient\obj\Debug\net6.0\zNpgsqlClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yohoo\OneDrive\桌面\RestAPIs\zNpgsqlClient\obj\Debug\net6.0\zNpgsqlClient.AssemblyInfoInputs.cache
+C:\Users\Yohoo\OneDrive\桌面\RestAPIs\zNpgsqlClient\obj\Debug\net6.0\zNpgsqlClient.AssemblyInfo.cs
+C:\Users\Yohoo\OneDrive\桌面\RestAPIs\zNpgsqlClient\obj\Debug\net6.0\zNpgsqlClient.csproj.CoreCompileInputs.cache
+C:\Users\Yohoo\OneDrive\桌面\RestAPIs\zNpgsqlClient\obj\Debug\net6.0\zNpgsqlClient.dll
+C:\Users\Yohoo\OneDrive\桌面\RestAPIs\zNpgsqlClient\obj\Debug\net6.0\refint\zNpgsqlClient.dll
+C:\Users\Yohoo\OneDrive\桌面\RestAPIs\zNpgsqlClient\obj\Debug\net6.0\zNpgsqlClient.pdb
+C:\Users\Yohoo\OneDrive\桌面\RestAPIs\zNpgsqlClient\obj\Debug\net6.0\zNpgsqlClient.genruntimeconfig.cache
+C:\Users\Yohoo\OneDrive\桌面\RestAPIs\zNpgsqlClient\obj\Debug\net6.0\ref\zNpgsqlClient.dll
