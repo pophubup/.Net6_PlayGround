@@ -12,3 +12,17 @@ C:\Users\Yohoo\OneDrive\桌面\RestAPIs\zNpgsqlClient\obj\Debug\net6.0\refint\zN
 C:\Users\Yohoo\OneDrive\桌面\RestAPIs\zNpgsqlClient\obj\Debug\net6.0\zNpgsqlClient.pdb
 C:\Users\Yohoo\OneDrive\桌面\RestAPIs\zNpgsqlClient\obj\Debug\net6.0\zNpgsqlClient.genruntimeconfig.cache
 C:\Users\Yohoo\OneDrive\桌面\RestAPIs\zNpgsqlClient\obj\Debug\net6.0\ref\zNpgsqlClient.dll
+C:\Users\Yohoo\Desktop\新增資料夾 (7)\.Net6_Playground\zNpgsqlClient\bin\Debug\net6.0\zNpgsqlClient.deps.json
+C:\Users\Yohoo\Desktop\新增資料夾 (7)\.Net6_Playground\zNpgsqlClient\bin\Debug\net6.0\zNpgsqlClient.runtimeconfig.json
+C:\Users\Yohoo\Desktop\新增資料夾 (7)\.Net6_Playground\zNpgsqlClient\bin\Debug\net6.0\zNpgsqlClient.dll
+C:\Users\Yohoo\Desktop\新增資料夾 (7)\.Net6_Playground\zNpgsqlClient\bin\Debug\net6.0\ref\zNpgsqlClient.dll
+C:\Users\Yohoo\Desktop\新增資料夾 (7)\.Net6_Playground\zNpgsqlClient\bin\Debug\net6.0\zNpgsqlClient.pdb
+C:\Users\Yohoo\Desktop\新增資料夾 (7)\.Net6_Playground\zNpgsqlClient\obj\Debug\net6.0\zNpgsqlClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yohoo\Desktop\新增資料夾 (7)\.Net6_Playground\zNpgsqlClient\obj\Debug\net6.0\zNpgsqlClient.AssemblyInfoInputs.cache
+C:\Users\Yohoo\Desktop\新增資料夾 (7)\.Net6_Playground\zNpgsqlClient\obj\Debug\net6.0\zNpgsqlClient.AssemblyInfo.cs
+C:\Users\Yohoo\Desktop\新增資料夾 (7)\.Net6_Playground\zNpgsqlClient\obj\Debug\net6.0\zNpgsqlClient.csproj.CoreCompileInputs.cache
+C:\Users\Yohoo\Desktop\新增資料夾 (7)\.Net6_Playground\zNpgsqlClient\obj\Debug\net6.0\zNpgsqlClient.dll
+C:\Users\Yohoo\Desktop\新增資料夾 (7)\.Net6_Playground\zNpgsqlClient\obj\Debug\net6.0\ref\zNpgsqlClient.dll
+C:\Users\Yohoo\Desktop\新增資料夾 (7)\.Net6_Playground\zNpgsqlClient\obj\Debug\net6.0\zNpgsqlClient.pdb
+C:\Users\Yohoo\Desktop\新增資料夾 (7)\.Net6_Playground\zNpgsqlClient\obj\Debug\net6.0\zNpgsqlClient.genruntimeconfig.cache
+C:\Users\Yohoo\Desktop\新增資料夾 (7)\.Net6_Playground\zNpgsqlClient\obj\Debug\net6.0\zNpgsqlClient.csproj.AssemblyReference.cache

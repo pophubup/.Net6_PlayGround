@@ -6,9 +6,9 @@ using zNpgsqlClient.Entities;
 
 namespace zNpgsqlClient
 {
-    public static class AddNpgsqlClient
+    public static class NpgsqlClient
     {
-        public static IServiceCollection AddPostgreSQLClient(this IServiceCollection service, string conn)
+        public static IServiceCollection AddNpgsql(this IServiceCollection service, string conn)
         {
             service.AddPooledDbContextFactory<Test3Context>(options => options
    .UseLoggerFactory(LoggerFactory.Create(builder => builder.AddConsole()))
