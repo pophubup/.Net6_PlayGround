@@ -1,5 +1,5 @@
-using zNpgsqlClient;
 
+using RestAPIs.Hubs;
 var builder = WebApplication.CreateBuilder(args);
 var env = builder.Environment;
 if (env.IsDevelopment())
@@ -21,21 +21,44 @@ if (env.IsProduction())
     builder.Configuration.AddJsonFile(@"D:\home\key.json", optional: true, reloadOnChange: true);
 
 }
+
 // Add services to the container.
-builder.Services.AddPostgreSQLClient(@"Host=ls-4d67eb0d3e5a4593522a60644a188bea651c79ed.cwdxwfoovuek.ap-northeast-2.rds.amazonaws.com; Port=5432; Database=Test3; User Id=dbmasteruser; Password=Home7996;");
+builder.Services.AddNpgsql(builder.Configuration["SQL:NpqSQLConn3"]);
+#region work related
+//builder.Services.AddWorkedRelatedClient(builder.Configuration);
+#endregion
+
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddSignalR();
+builder.Services.AddCors(options => options.AddPolicy("CorsPolicy",
+        builder =>
+        {
+            builder.WithOrigins("http://localhost:8080/").AllowAnyHeader().AllowAnyMethod().AllowCredentials().SetIsOriginAllowed((host) => true);
+        }));
+#region 工作上研究
 
-var app = builder.Build();
+#endregion
 
-// Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
+for (int i = 0; i <    10000; i++)
 {
-    app.UseSwagger();
-    app.UseSwaggerUI();
+    var cccc = Task.Run(() =>
+    {
+        Console.WriteLine($"{ Thread.CurrentThread.ManagedThreadId}");
+
+    });
 }
+var app = builder.Build();
+ //cccc.GetAwaiter().GetResult();
+// Configure the HTTP request pipeline.
+app.UseSwagger();
+app.UseSwaggerUI();
+
+app.UseCors("CorsPolicy");
+
+app.MapHub<MyHub>("/myHub");
 
 app.UseHttpsRedirection();
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wmWzVDbutTubumilbiDrFMq+GHGwV0rjvj/l5JLpvBO7wcm3uESQEq9bzYe5C6MRA9UJlpNNMGOu3raIF3WGDA==",
+  "dgSpecHash": "FiccEpvLo7KgDO8Pf0AFN1FkleWpYVFSJfZTVl3dNAwJr4lKOit2GZ79Aqp8K8S+x18nN0lz9WtOpNPd8IFhPQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yohoo\\OneDrive\\桌面\\RestAPIs\\zNpgsqlClient\\zNpgsqlClient.csproj",
+  "projectFilePath": "C:\\Users\\Yohoo\\Desktop\\新增資料夾 (7)\\.Net6_Playground\\zNpgsqlClient\\zNpgsqlClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yohoo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Yohoo\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\6.0.1\\microsoft.aspnetcore.diagnostics.entityframeworkcore.6.0.1.nupkg.sha512",
